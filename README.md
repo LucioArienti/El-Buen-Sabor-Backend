@@ -26,7 +26,8 @@ Las vistas fueron creadas con Figma. Puedes verlas aquí: [Vistas de Figma](http
 
 El desarrollo del frontend de este proyecto se almacena en un repositorio separado de GitHub. Puedes encontrar el código fuente en el siguiente enlace:
 
-[El-Buen-Sabor-Frontend](https://github.com/rbayarri/El-Buen-Sabor-Frontend)
+
+[El-Buen-Sabor-Frontend](https://github.com/LucioArienti/El-Buen-Sabor-Frontend)
 
 ## Tecnologías Utilizadas
 
